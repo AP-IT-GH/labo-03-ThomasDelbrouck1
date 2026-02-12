@@ -1,0 +1,15 @@
+section {
+    color: darkslategray;
+}
+
+section a {
+    color: inherit;
+}
+
+nav {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav button {
+    font-family: inherit;
+}

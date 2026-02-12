@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(196, 192, 192);
+}
+
+h1 {
+    background-color: rgb(227, 223, 223);
+    color: rgb(87, 86, 86);
+}
+
+.ph14 {
+    background-color: blue;
+    color: white;
+}
+
+.ph13 {
+    background-color: rgb(133, 186, 232);
+    color: white;
+}
+
+.ph7 {
+    background-color: green;
+    color: white;
+}
+
+.ph0 {
+    background-color: pink;
+}
